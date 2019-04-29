@@ -1,0 +1,23 @@
+{
+  "name": "portofoliu",
+  "version": "1.0.0",
+  "description": "Portofoliu personal",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node sass -w/scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihaiene17/Portofoliu2019.git"
+  },
+  "author": "Mihail Ene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mihaiene17/Portofoliu2019/issues"
+  },
+  "homepage": "https://github.com/Mihaiene17/Portofoliu2019#readme"
+}
